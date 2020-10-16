@@ -12,4 +12,3 @@ C:\Users\wudas\source\repos\GenshinAssCrack\obj\Debug\GenshinAssCrack.csproj.Gen
 C:\Users\wudas\source\repos\GenshinAssCrack\obj\Debug\GenshinAssCrack.csproj.CoreCompileInputs.cache
 C:\Users\wudas\source\repos\GenshinAssCrack\obj\Debug\GenshinAssCrack.exe
 C:\Users\wudas\source\repos\GenshinAssCrack\obj\Debug\GenshinAssCrack.pdb
-C:\Users\wudas\source\repos\GenshinAssCrack\obj\Debug\GenshinAssCrack.csprojAssemblyReference.cache

@@ -67,8 +67,7 @@ namespace GenshinAssCrack
             else
             {
                 Directory.CreateDirectory(Environment.GetFolderPath(Environment.SpecialFolder.MyDocuments) + @"\genshin_ass_crack");
-                File.Create(path);
-                File.Create(path).Close();
+                File.Create(path).Dispose();
                 StreamWriter sw = new StreamWriter(path, false, Encoding.UTF8);
                 sw.Write(root_path);
                 sw.Close();
