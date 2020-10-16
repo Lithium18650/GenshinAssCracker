@@ -1,0 +1,15 @@
+C:\Users\wudas\source\repos\GenshinAssCrack\obj\Debug\MainWindow.g.cs
+C:\Users\wudas\source\repos\GenshinAssCrack\obj\Debug\App.g.cs
+C:\Users\wudas\source\repos\GenshinAssCrack\obj\Debug\GenshinAssCrack_MarkupCompile.cache
+C:\Users\wudas\source\repos\GenshinAssCrack\obj\Debug\GenshinAssCrack_MarkupCompile.lref
+C:\Users\wudas\source\repos\GenshinAssCrack\bin\Debug\GenshinAssCrack.exe.config
+C:\Users\wudas\source\repos\GenshinAssCrack\bin\Debug\GenshinAssCrack.exe
+C:\Users\wudas\source\repos\GenshinAssCrack\bin\Debug\GenshinAssCrack.pdb
+C:\Users\wudas\source\repos\GenshinAssCrack\obj\Debug\MainWindow.baml
+C:\Users\wudas\source\repos\GenshinAssCrack\obj\Debug\GenshinAssCrack.g.resources
+C:\Users\wudas\source\repos\GenshinAssCrack\obj\Debug\GenshinAssCrack.Properties.Resources.resources
+C:\Users\wudas\source\repos\GenshinAssCrack\obj\Debug\GenshinAssCrack.csproj.GenerateResource.cache
+C:\Users\wudas\source\repos\GenshinAssCrack\obj\Debug\GenshinAssCrack.csproj.CoreCompileInputs.cache
+C:\Users\wudas\source\repos\GenshinAssCrack\obj\Debug\GenshinAssCrack.exe
+C:\Users\wudas\source\repos\GenshinAssCrack\obj\Debug\GenshinAssCrack.pdb
+C:\Users\wudas\source\repos\GenshinAssCrack\obj\Debug\GenshinAssCrack.csprojAssemblyReference.cache

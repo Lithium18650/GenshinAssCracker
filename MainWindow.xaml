@@ -1,0 +1,20 @@
+﻿<Window x:Class="GenshinAssCrack.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:GenshinAssCrack"
+        mc:Ignorable="d"
+        Title="Genshin_Ass_Crack" Height="450" Width="800" ResizeMode="NoResize">
+    <Grid>
+        <Grid.Background>
+            <ImageBrush ImageSource="genshinsetu.jpg"/>
+        </Grid.Background>
+        <Label Name="Main_Lable" Content="屁股拯救器" HorizontalAlignment="Left" Margin="10,39,0,0" VerticalAlignment="Top" FontSize="36" Foreground="#FF5EE2DC" Height="56" Width="212"/>
+        <Button Click="confirm_button_Click" Name="confirm_button" Content="确定" HorizontalAlignment="Left" Margin="242,256,0,0" VerticalAlignment="Top" Width="75" Opacity="0.6"/>
+        <TextBox Name="entry_path_got" HorizontalAlignment="Left" Height="22" Margin="242,179,0,0" TextWrapping="Wrap" Text="输入游戏安装路径" VerticalAlignment="Top" Width="268" Background="#FFA09898" Opacity="0.6"/>
+        <Button Click="quit_button_Click" Name="quit_button" Content="QUIT" HorizontalAlignment="Left" Margin="435,256,0,0" VerticalAlignment="Top" Width="75" Opacity="0.6"/>
+        <Label Name="notice_lable" Content="" HorizontalAlignment="Left" Margin="531,338,0,0" VerticalAlignment="Top"/>
+        <Button Name="browse_button" Click="browse_button_Click" Content="浏览" HorizontalAlignment="Left" Margin="480,182,0,0" VerticalAlignment="Top" Width="30" Opacity="0.6" RenderTransformOrigin="0.133,0.842"/>
+    </Grid>
+</Window>
